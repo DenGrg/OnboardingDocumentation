@@ -1,6 +1,26 @@
 # Creative Automation - General overview
 
-Celtra Creative Automation tools helps advertisers meet a growing demand for content. It enables our users to:
+To understand what the Celtra Creative Avtomation tool does its easier if we present it through a practical use case.
+
+Lets say a big chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with a big advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
+
+You are presented with the following requirements:
+* The company are launching 6 new products and you are required to feature each of them in an ad.
+* The campaign should be present on the following channels: YouTube, Facebook & Twitter
+* In each of the channels you should have aleast two formats with three diferent sizes.
+* The content should be localized for 10 different markets. 
+
+
+
+For us to be able to service the entire advertising pipeline with our tool we need to be able to:
+Produce creatives
+Review creatives
+Distribute creatives
+
+
+
+
+It enables our users to:
   * Product creative content at scale
   * Customize creatives for each product
   * Localize creative for each market
@@ -8,3 +28,5 @@ Celtra Creative Automation tools helps advertisers meet a growing demand for con
   *   All channels
   *   All formats
   *   All sizes
+
+
