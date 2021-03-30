@@ -26,7 +26,7 @@ The example below shows a traditinal way that Celtra has been used to build crea
 
 all of the above settings define everything about your creative. 
 
-##What is a creative?
+## What is a creative?
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
