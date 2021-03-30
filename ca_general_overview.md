@@ -47,6 +47,7 @@ The campaign needs to be translated to 10 different markets.
 
 Lets just calculate all how manny different creatives are needed: 
 
+```
 {
   products = 6,
   YouTube = 2,
@@ -56,7 +57,7 @@ Lets just calculate all how manny different creatives are needed:
   
   (products * youTube) * languages + (products * Facebook) * languages + (products * Twitter) * languages  
 }
-
+```
 
 
 
