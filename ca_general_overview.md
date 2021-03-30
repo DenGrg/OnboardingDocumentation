@@ -38,21 +38,20 @@ So far everything is amazing. So what is the problem that we are solving?
 
 In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
 
-### Example
+#### Example
 
 Lets say a chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with an advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
 
-Here are their requirements:
+**Here are their requirements:**
 * The company are launching 6 new products and you are required to feature each of them in creative.
 * The campaign should be present on the following channels: YouTube (2 formats), Facebook (2 formats) & Twitter (6 formats).
 * The campaign needs to be translated to 10 different markets. 
 
 Lets just calculate how manny different creatives are needed:
 
-```
-Each format needs atleast 6 different creatives, one for each product. 
-Then you need to multiply this by 10 for each of the different languages. 
+Each format needs atleast 6 different creatives, one for each product. Then you need to multiply this by 10 for each of the different languages. 
 
+```
   products = 6
   YouTube = 2
   Facebook = 2
