@@ -45,10 +45,11 @@ The company are launching 6 new products and you are required to feature each of
 The campaign should be present on the following channels: YouTube (2 formats), Facebook (2 formats) & Twitter (6 formats).
 The campaign needs to be translated to 10 different markets. 
 
-Lets just calculate all how manny different creatives are needed: 
+Lets just calculate how manny different creatives are needed:
 
 ```
-Each format needs atleast 6 different creatives, one for each product. Then you need to multiply this by 10 for each of the different languages. 
+Each format needs atleast 6 different creatives, one for each product. 
+Then you need to multiply this by 10 for each of the different languages. 
 
   products = 6
   YouTube = 2
