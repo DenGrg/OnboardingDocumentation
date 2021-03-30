@@ -29,7 +29,7 @@ all of the above settings define everything about your creative.
 ## What is a creative?
 
 In technical terms a creative is defined by certain parameters (channel, format, size, layout) and content (image, video, text, url...).
-The parameters are grouped together in a template, content is then liked to the template and the output of this is a creative.
+The parameters are grouped together in a template, content is then linked to the template and the output is a creative.
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
