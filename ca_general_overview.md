@@ -3,18 +3,28 @@
 Celtra creative avtomation tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. 
 
 The example below shows a traditinal way that Celtra has been used to build creatives.
+
 * Chose a Channel, this defines where and how your creative will be shown:
   + Facebook
   + Twitter
   + Snapchat
   + ...
-* Chose a format, each of the channel has a set of predefined supported creative formats
+* Chose a format, each of the channels has a set of predefined supported creative formats e.g.:
   + Facebook
     - Image
     - Video
     - Carousel
-* Item 4
-  + Item 5
+* Then you need to select a size of your ad, this depend on where the add will be shown e.g.:
+  + 320x150
+  + 1024x768
+  + ...
+* Now you need to define the layout:
+  + Where will you place your images and/or videos?
+  + Where will the text be?
+  + Are there gonna be any animations?
+  + Where will you place the button that will take you to the homepage of the advertiser.
+
+all of the above settings define everything about your creative. 
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
