@@ -48,15 +48,15 @@ The campaign needs to be translated to 10 different markets.
 Lets just calculate all how manny different creatives are needed: 
 
 ```
-{
-  products = 6,
-  YouTube = 2,
-  Facebook = 2,
-  Twitter = 6,
+Each format needs atleast 6 different creatives, one for each product. Then you need to multiply this by 10 for each of the different languages. 
+
+  products = 6
+  YouTube = 2
+  Facebook = 2
+  Twitter = 6
   languages = 10
   
-  (products * youTube) * languages + (products * Facebook) * languages + (products * Twitter) * languages  
-}
+  (products * youTube) * languages + (products * Facebook) * languages + (products * Twitter) * languages = 480
 ```
 
 
