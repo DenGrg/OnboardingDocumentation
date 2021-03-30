@@ -1,6 +1,6 @@
 # Creative Automation - General overview
 
-Celtra creative avtomation tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. 
+Celtra creative avtomation tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. Now lets see what this means and how you can achieve it.
 
 The example below shows a traditinal way that Celtra has been used to build creatives.
 
@@ -28,11 +28,16 @@ all of the above settings define everything about your creative.
 
 ## What is a creative?
 
-A creative is an ad. its defined by certain parameters like: channel, format, size, layout. And content like: image, video, text, url...
+In technical terms a creative is defined by certain parameters (channel, format, size, layout) and content (image, video, text, url...).
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
-The parameters are grouped togethere in a template and the content can be grouped in a feed.
+The parameters are grouped together in a template, content is then liked to the template and the output of this is a creative.
+
+
+
+
+
 
 
 Lets say a big chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with a big advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
