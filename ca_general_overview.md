@@ -29,10 +29,24 @@ all of the above settings define everything about your creative.
 ## What is a creative?
 
 In technical terms a creative is defined by certain parameters (channel, format, size, layout) and content (image, video, text, url...).
+The parameters are grouped together in a template, content is then liked to the template and the output of this is a creative.
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
-The parameters are grouped together in a template, content is then liked to the template and the output of this is a creative.
+
+So far everything is amazing. So what is the problem that we are solving?
+
+In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
+
+Lets say a big chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with a big advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
+Here are their requirements:
+The company are launching 6 new products and you are required to feature each of them in creative.
+The campaign should be present on the following channels: YouTube (2 formats), Facebook (2 formats) & Twitter (4 formats).
+The campaign needs to be translated to 10 different markets. 
+
+
+
+
 
 
 
