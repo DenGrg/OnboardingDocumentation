@@ -46,7 +46,6 @@ Lets say a chlothing chain is comming out with a new collection for Summer 2021 
 * The campaign needs to be translated to 10 different markets. 
 
 Lets just calculate how manny different creatives are needed:
-
 Each format needs atleast 6 different creatives, one for each product. Then you need to multiply this by 10 for each of the different languages. 
 
 ```
@@ -64,9 +63,10 @@ But what if you could only build 10 creatives instead of the original 600?
 
 ## Creative automation
 
+You can achieve this by using our creative avtomation plaform aka Celtra CA. Celtra CA tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. 
 
 
-
+<img width="975" alt="Screen Shot 2021-03-30 at 16 45 08" src="https://user-images.githubusercontent.com/14069474/113008483-5d74bf00-9177-11eb-95a2-630b8c912a25.png">
 
 
 
