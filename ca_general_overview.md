@@ -32,7 +32,7 @@ A creative is an ad. its defined by certain parameters like: channel, format, si
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
-
+The parameters are grouped togethere in a template and the content can be grouped in a feed.
 
 
 Lets say a big chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with a big advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
