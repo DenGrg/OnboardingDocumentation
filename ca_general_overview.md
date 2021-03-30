@@ -57,8 +57,17 @@ Then you need to multiply this by 10 for each of the different languages.
   Twitter = 6
   languages = 10
   
-  (products * youTube) * languages + (products * Facebook) * languages + (products * Twitter) * languages = 480
+  (products * youTube) * languages + (products * Facebook) * languages + (products * Twitter) * languages = 600
 ```
+
+When you start adding even more languages, products and formats, you can see that the end number is growing exponentialy.
+But what if you could only build 10 creatives instead of the original 600?
+
+## Creative automation
+
+
+
+
 
 
 
