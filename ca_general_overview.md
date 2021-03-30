@@ -26,7 +26,7 @@ The example below shows a traditinal way that Celtra has been used to build crea
 
 all of the above settings define everything about your creative. 
 
-## What is a creative?
+## Intro
 
 In technical terms a creative is defined by certain parameters (channel, format, size, layout) and content (image, video, text, url...).
 The parameters are grouped together in a template, content is then linked to the template and the output is a creative.
@@ -34,9 +34,7 @@ The parameters are grouped together in a template, content is then linked to the
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
 
-So far everything is amazing. So what is the problem that we are solving?
-
-In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
+So far everything is amazing. So what is the problem that we are solving? In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
 
 #### Example
 
