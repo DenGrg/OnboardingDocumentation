@@ -1,7 +1,20 @@
 # Creative Automation - General overview
 
-To understand what the Celtra Creative Avtomation tool does its easier if we present it through a practical use case.
-With the Celtra platform you are able to cmmbine a creative template which has a specific layout with the content from the content feed.
+Celtra creative avtomation tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. 
+
+The example below shows a traditinal way that Celtra has been used to build creatives.
+* Chose a Channel, this defines where and how your creative will be shown:
+  + Facebook
+  + Twitter
+  + Snapchat
+  + ...
+* Chose a format, each of the channel has a set of predefined supported creative formats
+  + Facebook
+    - Image
+    - Video
+    - Carousel
+* Item 4
+  + Item 5
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
