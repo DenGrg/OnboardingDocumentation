@@ -38,6 +38,8 @@ So far everything is amazing. So what is the problem that we are solving?
 
 In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
 
+### Example
+
 Lets say a chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with an advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
 
 Here are their requirements:
