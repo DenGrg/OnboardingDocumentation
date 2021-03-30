@@ -1,6 +1,13 @@
 # Creative Automation - General overview
 
 To understand what the Celtra Creative Avtomation tool does its easier if we present it through a practical use case.
+With the Celtra platform you are able to cmmbine a creative template which has a specific layout with the content from the content feed.
+
+<img width="676" alt="Screen Shot 2021-03-30 at 11 35 28" src="https://user-images.githubusercontent.com/14069474/112968064-3359d780-914c-11eb-8348-f7487509decc.png">
+
+
+
+
 
 Lets say a big chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with a big advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
 
