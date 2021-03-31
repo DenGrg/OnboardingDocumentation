@@ -74,3 +74,32 @@ You can directly "push" them to some of the supported third party platforms.
 Or you can export them locally and manually distribut them to advertising channels of your choice.
 
 For more info about Distributing and Exporting [visit](https://github.com/celtra/mab/wiki/QA-DOC:-Exporting-and-Distribution).
+
+
+
+## API
+You can use direct api request to get raw data whitout the need to load all the assets. Sometimes this can be helpfull when checking the integrity of the data stored or debuging potential issues.
+
+
+
+### Creative controler
+
+This is the default call to [Creative controler](https://github.com/celtra/uab/blob/master/server/library/Celtra/Controllers/CreativeController.php).
+This call will return all of the data specified in the getDefaultFields() function.
+```
+https://hub.celtra.io/api/creatives/<creative-id>
+```
+But you can also specify individual fileds if you are interested in something more specific
+
+```
+https://hub.celtra.io/api/creatives/<creative-id>?fields=<creative-controler-endpoint>
+
+e.g.
+
+To return only the name of the creative:
+https://hub.celtra.io/api/creatives/f2c79c04?fields=name
+
+To return the creative id and the folder id:
+https://hub.celtra.io/api/creatives/f2c79c04?fields=id,folderId
+```
+
