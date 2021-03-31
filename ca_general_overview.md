@@ -82,8 +82,8 @@ You can use direct api request to get raw data whitout the need to load all the 
 
 We will cover only a couple of examples here but a usefull place to look for API endpoints is the [Controler folder](https://github.com/celtra/uab/tree/master/server/library/Celtra/Controllers).
 
-**Note**
-Depending on if you use http or https, the controler will return different subset of data. With http request only data that is publically available will be returned. 
+**Note**<br/>
+Depending on if you use http or https, the controler will return different subset of data. With http request, only data that is publicly available will be returned. 
 
 
 ### Creative controler
