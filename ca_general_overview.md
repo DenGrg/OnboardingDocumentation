@@ -53,3 +53,17 @@ For changing the layout, you can do this by updating your template. We will dete
 For updating the content, you just need to replace it in the feed editor. Again the change will be detected and after updating, only those creatives that were using the assets that you changed will be deleted and regenerated (if you modify 5 lines in the feed, 5 creatives will be deleted and 5 new will be gewnerated after updating).
 
 
+#### Distributioong and exporting
+
+After you are happy with how your creatives look there are currently two supported ways to distribute them to your adveritising channels. 
+
+You can directly "push" them to some of the supported third party platforms.
+
+<img width="1415" alt="Screen Shot 2021-03-31 at 10 13 59" src="https://user-images.githubusercontent.com/14069474/113112777-dcb2d300-9209-11eb-8976-cb2e9d6ad82b.png">
+
+
+Or you can export them locally and manually distribut them to advertising channels of your choice.
+
+<img width="1420" alt="Screen Shot 2021-03-31 at 10 16 07" src="https://user-images.githubusercontent.com/14069474/113113027-27cce600-920a-11eb-9a6b-771c16ab7fed.png">
+
+
