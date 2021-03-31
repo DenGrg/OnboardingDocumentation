@@ -13,7 +13,7 @@ So far everything is amazing. So what is the problem that we are solving? In rea
 
 #### Example
 
-Lets say a chlothing chain is comming out with a new collection for Summer 2021 and they want to acompany it with an advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
+Lets say a company is launching a new product line and they want to acompany it with an advertising campaign. You are in charge of creative production for the entire online part of the advertising campaign.
 
 **Here are their requirements:**
 * The company are launching 6 new products and you are required to feature each of them in creative.
@@ -42,5 +42,8 @@ You can achieve this by using our creative avtomation plaform aka Celtra CA. Cel
 
 
 <img width="975" alt="Screen Shot 2021-03-30 at 16 45 08" src="https://user-images.githubusercontent.com/14069474/113008483-5d74bf00-9177-11eb-95a2-630b8c912a25.png">
+
+
+The template contains placeholders (text placeholder, image placeholder, video placeholder, ...), the data is stored in content feeds. When you combine these two data sources the placeholders are replaced with actual data from the feed, each line in the feed represents a creative variant. The output is multiple creative variants (number_of_formats * number_of_lines_in_feeed).
 
 
