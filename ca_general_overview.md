@@ -53,7 +53,7 @@ For changing the layout, you can do this by updating your template. We will dete
 For updating the content, you just need to replace it in the feed editor. Again the change will be detected and after updating, only those creatives that were using the assets that you changed will be deleted and regenerated (if you modify 5 lines in the feed, 5 creatives will be deleted and 5 new will be gewnerated after updating).
 
 
-#### Distributioong and exporting
+#### Distributiong and exporting
 
 After you are happy with how your creatives look there are currently two supported ways to distribute them to your adveritising channels. 
 
