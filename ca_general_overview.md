@@ -93,17 +93,17 @@ But you can also specify individual fileds if you are interested in something mo
 
 ```
 https://hub.celtra.io/api/creatives/<creative-id>?fields=<creative-controler-endpoint>
-
+```
 e.g.
 
 To return only the name of the creative:
-
-*https://hub.celtra.io/api/creatives/f2c79c04?fields=name**
-
+```
+https://hub.celtra.io/api/creatives/f2c79c04?fields=name
+```
 
 
 To return the creative id and the folder id:
-
-**https://hub.celtra.io/api/creatives/f2c79c04?fields=id,folderId**
+```
+https://hub.celtra.io/api/creatives/f2c79c04?fields=id,folderId
 ```
 
