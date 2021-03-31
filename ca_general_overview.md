@@ -44,6 +44,12 @@ You can achieve this by using our creative avtomation plaform aka Celtra CA. Cel
 <img width="975" alt="Screen Shot 2021-03-30 at 16 45 08" src="https://user-images.githubusercontent.com/14069474/113008483-5d74bf00-9177-11eb-95a2-630b8c912a25.png">
 
 
-The template contains placeholders (text placeholder, image placeholder, video placeholder, ...), the data is stored in content feeds. When you combine these two data sources the placeholders are replaced with actual data from the feed, each line in the feed represents a creative variant. The output is multiple creative variants (number_of_formats * number_of_lines_in_feeed).
+The template contains placeholders (text placeholder, image placeholder, video placeholder, ...), the data is stored in content feeds. When you combine these two data sources the placeholders are replaced with actual data from the feed, each line in the feed represents a creative variant. The output is multiple creative variants (number_of_formats * number_of_lines_in_feed).
+
+Additional benefit of this approach is the ability to update creatives. If for some reason you want to change something in your layout, or you want to replace some content, you just need to do this once. 
+
+For changing the layout, you can do this by updating your template. We will detect the change and give user an option to update also their generated creative variants. This kind of update will result in all existing creatives beeing deleted and recreated for the new tempalte. 
+
+For updating the content, you just need to replace it in the feed editor. Again the change will be detected and after updating, only those creatives that were using the assets that you changed will be deleted and regenerated (if you modify 5 lines in the feed, 5 creatives will be deleted and 5 new will be gewnerated after updating).
 
 
