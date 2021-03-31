@@ -95,7 +95,7 @@ But you can also specify individual fileds if you are interested in something mo
 ```
 https://hub.celtra.io/api/creatives/<creative-id>?fields=<creative-controler-endpoint>
 ```
-e.g.
+#### Examples
 
 To return only the name of the creative:
 ```
@@ -108,6 +108,7 @@ To return the creative id and the folder id:
 https://hub.celtra.io/api/creatives/f2c79c04?fields=id,folderId
 ```
 
+
 ### Custom Feed controler
 
 [Custom feed controler](https://github.com/celtra/uab/blob/master/server/library/Celtra/Controllers/CustomFeedController.php) is the place to look if you need specific information aboout custom feeds.
@@ -115,6 +116,8 @@ https://hub.celtra.io/api/creatives/f2c79c04?fields=id,folderId
 ```
 https://hub.celtra.io/api/customFeeds/<feed-id>
 ```
+
+#### Examples
 
 To return only the name of the feed:
 ```
