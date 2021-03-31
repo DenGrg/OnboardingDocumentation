@@ -54,7 +54,7 @@ For changing the layout, you can do this by updating your template. We will dete
 For updating the content, you just need to replace it in the feed editor. Again the change will be detected and after updating, only those creatives that were using the assets that you changed will be deleted and regenerated (if you modify 5 lines in the feed, 5 creatives will be deleted and 5 new will be gewnerated after updating).
 
 ### Building a template
-If you want to read more about how to build a template [visit](https://support.celtra.io/essentials/build-a-template).
+If you want to find out more about how to build a template [visit](https://support.celtra.io/essentials/build-a-template).
 And [link to martins article]()
 
 
