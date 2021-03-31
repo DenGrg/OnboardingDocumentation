@@ -46,6 +46,16 @@ You can achieve this by using our creative avtomation plaform aka Celtra CA. Cel
 
 The template contains placeholders (text placeholder, image placeholder, video placeholder, ...), the data is stored in content feeds. When you combine these two data sources the placeholders are replaced with actual data from the feed, each line in the feed represents a creative variant. The output is multiple creative variants (number_of_formats * number_of_lines_in_feed).
 
+### Building a template
+If you want to read more about how to build a template [visit](https://support.celtra.io/essentials/build-a-template).
+And [link to martins article]()
+
+
+### Building a content feed
+If you want to find out more about how to build a content feed [visit](https://support.celtra.io/feeds/content-feeds).
+And [link to martins article]
+
+
 Additional benefit of this approach is the ability to update creatives. If for some reason you want to change something in your layout, or you want to replace some content, you just need to do this once. 
 
 For changing the layout, you can do this by updating your template. We will detect the change and give user an option to update also their generated creative variants. This kind of update will result in all existing creatives beeing deleted and recreated for the new tempalte. 
