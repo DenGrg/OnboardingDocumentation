@@ -86,7 +86,7 @@ We will cover only a couple of examples here but a usefull place to look for API
 ### Creative controler
 
 This is the default call to [Creative controler](https://github.com/celtra/uab/blob/master/server/library/Celtra/Controllers/CreativeController.php).
-This call will return all of the data specified in the getDefaultFields() function.
+This call will return all of the data from endpoints specified in the getDefaultFields() function.
 ```
 https://hub.celtra.io/api/creatives/<creative-id>
 ```
