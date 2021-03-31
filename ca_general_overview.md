@@ -60,10 +60,10 @@ And [link to martins article]()
 
 ### Building a content feed
 If you want to find out more about how to build a content feed [visit](https://support.celtra.io/feeds/content-feeds).
-And [link to martins article]
+And [link to martins article]()
 
 
-#### Distributiong and exporting
+### Distributiong and exporting
 
 After you are happy with how your creatives look there are currently two supported ways to distribute them to your adveritising channels. 
 
