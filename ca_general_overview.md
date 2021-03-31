@@ -63,4 +63,4 @@ You can directly "push" them to some of the supported third party platforms.
 
 Or you can export them locally and manually distribut them to advertising channels of your choice.
 
-For more info about Distributing and Exporting visit https://github.com/celtra/mab/wiki/QA-DOC:-Exporting-and-Distribution .
+For more info about Distributing and Exporting [visit](https://github.com/celtra/mab/wiki/QA-DOC:-Exporting-and-Distribution).
