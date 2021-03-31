@@ -61,9 +61,6 @@ You can directly "push" them to some of the supported third party platforms.
 
 <img width="1415" alt="Screen Shot 2021-03-31 at 10 13 59" src="https://user-images.githubusercontent.com/14069474/113112777-dcb2d300-9209-11eb-8976-cb2e9d6ad82b.png">
 
-
 Or you can export them locally and manually distribut them to advertising channels of your choice.
 
-<img width="1420" alt="Screen Shot 2021-03-31 at 10 16 07" src="https://user-images.githubusercontent.com/14069474/113113027-27cce600-920a-11eb-9a6b-771c16ab7fed.png">
-
-
+For more info about Distributing and Exporting visit https://github.com/celtra/mab/wiki/QA-DOC:-Exporting-and-Distribution .
