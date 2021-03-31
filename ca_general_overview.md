@@ -80,6 +80,8 @@ For more info about Distributing and Exporting [visit](https://github.com/celtra
 ## API
 You can use direct api request to get raw data whitout the need to load all the assets. Sometimes this can be helpfull when checking the integrity of the data stored or debuging potential issues.
 
+We will cover only a couple of examples here but a usefull place to look for API endpoints is the [Controler folder](https://github.com/celtra/uab/tree/master/server/library/Celtra/Controllers).
+
 
 ### Creative controler
 
