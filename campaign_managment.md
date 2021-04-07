@@ -69,6 +69,6 @@ Creatives are your actuall ads that will be shown to your audience.
 
 [Manage creatives](https://support.celtra.io/manage-projects/manage-creatives)
 
-[creative FAQ](https://support.celtra.io/creative/builder/creative-faq)
+[Creatives FAQ](https://support.celtra.io/creative/builder/creative-faq)
 
 
