@@ -1,15 +1,16 @@
 # Creative Automation - General overview
 
+Here we will try to give you an overview of Creative automation functionality. In the intro we describe the basics of what defines a creative then we explore how we were able to build a tool that allows a user to scale creative production by splitting content from the creative layout and scaling both of these parts individually.
 
 ## Intro
 
 In technical terms a creative is defined by certain parameters (channel, format, size, layout) and content (image, video, text, url...).
-The parameters are grouped together in a template, content is then linked to the template and the output is a creative.
+The parameters are grouped together in a template, content which is defined in the content feed, is then linked to the template and the output is a creative.
 
 <img width="639" alt="Screen Shot 2021-03-30 at 11 40 03" src="https://user-images.githubusercontent.com/14069474/112968559-b713c400-914c-11eb-9c6c-061e36362a37.png">
 
 
-So far everything is amazing. So what is the problem that we are solving? In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
+How does all of this work in pratice? In reality advertising campaigns require incredible amount of creatives. Lets use an example to have a better visual representation.
 
 #### Example
 
@@ -34,11 +35,11 @@ Each format needs atleast 6 different creatives, one for each product. Then you 
 ```
 
 When you start adding even more languages, products and formats, you can see that the end number is growing exponentialy.
-But what if you could only build 10 creatives instead of the original 600?
+But what if you could only build 10 creatives instead of the original 600? You can achieve this by using our creative avtomation plaform aka Celtra CA.
 
 ## Creative automation
 
-You can achieve this by using our creative avtomation plaform aka Celtra CA. Celtra CA tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. 
+Celtra CA tool enables users to scale their creative production by combining templates and content stored in feeds to output different combination of products, formats, sizes, layouts and content. 
 
 
 <img width="975" alt="Screen Shot 2021-03-30 at 16 45 08" src="https://user-images.githubusercontent.com/14069474/113008483-5d74bf00-9177-11eb-95a2-630b8c912a25.png">
