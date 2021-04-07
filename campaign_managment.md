@@ -12,19 +12,18 @@ Account is a main entity in the CA platform. For every new client that we sign a
 
 <img width="509" alt="Screen Shot 2021-04-07 at 09 29 57" src="https://user-images.githubusercontent.com/14069474/113829866-4e4ccd00-9786-11eb-802b-128084c0a4f9.png">
 
-Account holds information like:
-Account name
-URL
-Account type
-Privacy settings
-Account owner
-Billing info
-Feature packs
-…
+**Account holds information like:**
+* Account name
+* URL
+* Account type
+* Privacy settings
+* Account owner
+* Billing info
+* Feature packs
+* …
 
+The support article covers [account setup](https://support.celtra.io/essentials/account-setup) options in depth. 
 
-The support article covers account configuration option in depth. 
-https://support.celtra.io/essentials/account-setup
 
 
 
