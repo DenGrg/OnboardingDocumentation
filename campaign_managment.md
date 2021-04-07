@@ -1,4 +1,3 @@
-
 # Campaign managmnet 
 
 There are several entities that help users organize their advertising campaigns.
@@ -10,3 +9,69 @@ Below there is a basic entities hierarchi diagram.
 ## Accounts
 
 Account is a main entity in the CA platform. For every new client that we sign an account is created with their custom domain.
+
+<img width="509" alt="Screen Shot 2021-04-07 at 09 29 57" src="https://user-images.githubusercontent.com/14069474/113829866-4e4ccd00-9786-11eb-802b-128084c0a4f9.png">
+
+Account holds information like:
+Account name
+URL
+Account type
+Privacy settings
+Account owner
+Billing info
+Feature packs
+…
+
+
+The support article covers account configuration option in depth. 
+https://support.celtra.io/essentials/account-setup
+
+
+
+## Project
+
+A project is designed to hold your design files and their contents - templates, feeds, and creatives all together in one place. In Celtra, a project is a starting point for organizing your workflow.
+
+How to create a project
+https://support.celtra.io/essentials/create-a-project
+
+Navigating projects
+https://support.celtra.io/manage-projects/navigating-the-project-list
+
+Managing your projects
+https://support.celtra.io/manage-projects/manage-projects
+
+
+
+## Design file
+
+A design file is an entity that combines your creative templates to the content in the content feeds. It also holds all you generated creatives. 
+
+Creating a design file
+https://support.celtra.io/essentials/creating-a-design-file
+
+
+## Template
+
+A template is a creative that is used as a blueprint for all auto generated creative variants. 
+
+Build a template 
+https://support.celtra.io/essentials/build-a-template#CreateaNewInteractiveHTMLTemplate
+
+
+
+
+## Feed
+
+Feed is an entity that holds all your content. Together with templates feeds are used to generate creative variants.
+
+Content feed
+https://support.celtra.io/feeds/content-feeds
+
+You can use the Feed editor tool to create your feeds.
+https://support.celtra.io/feeds/feed-editor
+
+
+## Creatives
+
+
