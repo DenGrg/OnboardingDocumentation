@@ -63,5 +63,12 @@ You can use the [feed editor](https://support.celtra.io/feeds/feed-editor) to cr
 
 ## Creatives
 
+Creatives are your actuall ads that will be shown to your audience.
+
+[Creative structure](https://support.celtra.io/creative/builder/creative-structure)
+
+[Manage creatives](https://support.celtra.io/manage-projects/manage-creatives)
+
+[creative FAQ](https://support.celtra.io/creative/builder/creative-faq)
 
 
