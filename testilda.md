@@ -5,8 +5,8 @@ Testilda is our end-to-end automation framework. It is used to test the front en
 ## Architecture
 <img width="310" alt="Screen Shot 2021-04-07 at 12 43 56" src="https://user-images.githubusercontent.com/14069474/113854387-1bfb9980-979f-11eb-94d5-b31fb46c7e4d.png">
 
-[RSpec info](https://rspec.info/)\n
-[Capybara](https://github.com/teamcapybara/capybara)\n
+[RSpec info](https://rspec.info/)<br/>
+[Capybara](https://github.com/teamcapybara/capybara)<br/>
 [Web driver](https://www.selenium.dev/documentation/en/webdriver/#:~:text=Selenium%20WebDriver%20refers%20to%20both,and%20more%20concise%20programming%20interface.)
 
 
