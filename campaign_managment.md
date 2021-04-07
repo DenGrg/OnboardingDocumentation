@@ -31,46 +31,37 @@ The support article covers [account setup](https://support.celtra.io/essentials/
 
 A project is designed to hold your design files and their contents - templates, feeds, and creatives all together in one place. In Celtra, a project is a starting point for organizing your workflow.
 
-How to create a project
-https://support.celtra.io/essentials/create-a-project
+[How to create a project?](https://support.celtra.io/essentials/create-a-project)
 
-Navigating projects
-https://support.celtra.io/manage-projects/navigating-the-project-list
+[Navigating projects.](https://support.celtra.io/manage-projects/navigating-the-project-list)
 
-Managing your projects
-https://support.celtra.io/manage-projects/manage-projects
-
+[Managing your projects.](https://support.celtra.io/manage-projects/manage-projects)
 
 
 ## Design file
 
 A design file is an entity that combines your creative templates to the content in the content feeds. It also holds all you generated creatives. 
 
-Creating a design file
-https://support.celtra.io/essentials/creating-a-design-file
+[Creating a design file.](https://support.celtra.io/essentials/creating-a-design-file)
 
 
 ## Template
 
 A template is a creative that is used as a blueprint for all auto generated creative variants. 
 
-Build a template 
-https://support.celtra.io/essentials/build-a-template#CreateaNewInteractiveHTMLTemplate
-
-
+[Building a template.](https://support.celtra.io/essentials/build-a-template#CreateaNewInteractiveHTMLTemplate)
 
 
 ## Feed
 
 Feed is an entity that holds all your content. Together with templates feeds are used to generate creative variants.
 
-Content feed
-https://support.celtra.io/feeds/content-feeds
+[Content feed](https://support.celtra.io/feeds/content-feeds)
 
-You can use the Feed editor tool to create your feeds.
-https://support.celtra.io/feeds/feed-editor
+You can use the [feed editor](https://support.celtra.io/feeds/feed-editor) to create your feeds.
 
 
 ## Creatives
+
 
 
