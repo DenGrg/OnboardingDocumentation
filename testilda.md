@@ -1,6 +1,8 @@
-[How to SSH to circle](https://docs.google.com/document/d/1boYX7-1nrwgfAQ13dadeiVibc4tQfIigmKFTV2jIP50/edit?pli=1#heading=h.y19e7x9vbaqy)
+# Testilda
 
-## Cloning the repo
+## Setup
+
+### Cloning the repo
 
 The Testilda repo contains a snapshot file, that is getting too large to be handled in normal GIT repo. Therefore we are now using GIT LFS.
 
@@ -8,7 +10,7 @@ First you need to install LFS support to GIT: https://github.com/git-lfs/git-lfs
 
 Then run `git lfs install` and `git lfs pull` in the root of MAB. The snapshot will now be downloaded. Everything else will now be handled automatically.
 
-## Product setup
+### Product setup
 
 When using a monostack you can set up the product on your monostack and run testilda locally, but make sure you point any links to your monostack (further on). 
 
@@ -48,7 +50,7 @@ k task upgrade
 
 You don't need to always run all services. You can look for the relevant services in the `testilda/testilda_services` file.
 
-## Local file prep
+### Local file prep
 
 1. In `testilda` folder:
 
@@ -62,7 +64,7 @@ You don't need to always run all services. You can look for the relevant service
     ...
     ```
 
-## Create and connect to testilda
+### Create and connect to testilda
 
 First build image with `docker-compose build` from `testilda` subfolder.
 
@@ -81,7 +83,9 @@ If you are using a kubernetes monostack for testilda, you also have to increase 
 
 The `/testilda` folder is mapped to your local testilda copy.
 
-## Running tests with rspec
+## Running and writing tests
+
+### Running tests with rspec
 
 To run a test file run
 ```sh
@@ -93,7 +97,7 @@ or run a specific test on line whose it is on line 10:
 rspec spec/01_login/login_spec.rb:10
 ```
 
-## Linting
+### Linting
 Before committing your code, run linter outside of testilda container with
 ```sh
 testilda/bin/lint -a
@@ -103,7 +107,7 @@ If you add `-a` at the end, linter will do some smaller automatic fixes, that sh
 
 If you add `-A` (capital) in the end, linter will force automatic fixes, which can break some things sometimes.
 
-## Upgrading fixtures
+### Upgrading fixtures
 
 First follow the import procedure and upgrade Snowflake and DB to latest version. 
 Make sure there aren't any undesired changes in the database. 
@@ -130,6 +134,10 @@ After snapshot is created MAKE SURE TO CHECK IT'S SIZE. It should not differ too
 put `binding.pry` in code for breakpoint
 
 To open pry session automatically when something fails, run `sudo gem install pry-rescue pry-stack_explorer` inside container and run tests with `rescue rspec spec/...`
+
+### Debug on circle
+
+[How to SSH to circle](https://docs.google.com/document/d/1boYX7-1nrwgfAQ13dadeiVibc4tQfIigmKFTV2jIP50/edit?pli=1#heading=h.y19e7x9vbaqy)
 
 
 ## [wip, uab, [#644](https://github.com/celtra/uab/pull/644)] Create and connect to testilda (Kubernetes with Helm)
